@@ -9,6 +9,6 @@ Membuat fungsi kalkulator sederhana dengan input dalam bentuk string yang terdir
   <li>Operand 2 (angka maksimal 1 juta)</li>
 </ol>
 
-Antar operand dan operator akan dipisahkan oleh spasi. Output dari aplikasi anda adalah hasil kalkulasi dari input yang diberikan.
-Method signature dari fungsi yang dibuat adalah sebagai berikut
+Antar operand dan operator akan dipisahkan oleh spasi. Output dari aplikasi anda adalah hasil kalkulasi dari input yang diberikan.<br />
+Method signature dari fungsi yang dibuat adalah sebagai berikut <br />
 ```function kalkulator(string input) : integer```
